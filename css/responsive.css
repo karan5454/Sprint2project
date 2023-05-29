@@ -1,0 +1,225 @@
+/* extra large */
+@media only screen and (min-width:1200px)and (max-width:1400px){
+
+
+    .form_box input{
+        width: 70% !important;;
+    }
+}
+
+
+/* Extra large */
+@media only screen and (min-width:992px)and (max-width:1199px){
+
+
+    .form_box input{
+        width: 65% !important;;
+    }
+}
+
+
+/* Large */
+@media only screen and (min-width:768px)and (max-width:991px){
+
+/* primary menu */
+.megaMenu{
+    width: 300px!important;
+      margin-left:0px!important;
+      margin-top:0px!important;
+        
+ }
+ .subMenu{
+     margin-top: 0px!important;
+ }
+/* testimonial */
+.text_desc{
+    
+    width: 80%;
+   
+    font-size: 14px;
+    
+    
+    }
+    .form_box input{
+        width: 65% !important;;
+    }
+}
+
+/* Medium */
+@media only screen and (min-width:576px)and (max-width:767px){
+
+  
+/* primary menu */
+.primary_logo img{
+    width: 150px;
+
+}
+.cardIcon{
+margin-right: 33px;
+}
+.megaMenu{
+   width: 300px!important;
+     margin-left:0px!important;
+     margin-top:0px!important;
+       
+}
+.subMenu{
+    margin-top: 0px!important;
+}
+
+/* testimonial */
+.text_desc{
+    
+    width: 90%;
+   
+    font-size: 14px;
+    
+    
+    }
+
+
+/* contact page */
+.conatct_right_info{
+    margin-left: 0px!important;
+    margin-top: 20px;
+}
+
+}
+
+/* Small */
+
+@media only screen and (max-width:575px){
+
+    .form_box input{
+        width: 45% !important;;
+    }
+    .footer_submitBtn{
+        right: 145px!important;
+    }
+    
+.sub_title{
+    font-size: 12px;
+}
+.section_title{
+    font-size: 42px;
+}
+.primary_btn{
+padding: 10px 20px!important;
+}
+
+/* primary menu */
+.primary_logo img{
+    width: 150px;
+
+}
+
+.cardIcon{
+margin-right: 33px;
+}
+.megaMenu{
+    width: 300px!important;
+      margin-left:0px!important;
+      margin-top:0px!important;
+        
+ }
+ .subMenu{
+     margin-top: 0px!important;
+ }
+
+ .product_gride{
+     margin-bottom: 25px!important;
+ }
+/* winter */
+
+.winter_img img{
+    margin-left: 30px!important;
+}
+.img_dis{
+    left: 45px;
+}
+
+.counter_box_last{
+margin-top: 10px;
+}
+/* testimonial */
+.text_desc{
+    
+    width: 90%;
+   
+    font-size: 14px;
+    
+    
+    }
+
+    .form_box input{
+        width: 65% !important;;
+    }
+/* slick arrow */
+.slick-prev{
+    display: none!important;
+}
+.slick-next{
+    display: none!important;
+}
+
+/* contact page */
+.contactbar_right ul{
+     justify-content:center;
+      margin-right: 30px;
+      } 
+     
+      .contact_title h2{
+        text-align: center;
+      } 
+ .conatct_right_info{
+     margin-left: 0px!important;
+     margin-top: 20px;
+ }
+ #contactBtn{
+    width: 120px;
+    font-size: 12px;
+ }
+
+/* footer */
+ 
+.copyright_text{
+     padding: 10px 0px;
+}
+
+
+
+}
+
+/* X-small */
+
+@media only screen and (max-width:390px){
+    .section_title{
+        font-size: 35px;
+    }
+    .primary_btn{
+    padding: 8px 20px!important;
+    }
+
+    .primary_logo img{
+        width: 120px!important;
+    
+    }
+ 
+.hover_btn{
+ 
+    margin-right:0px!important;
+}
+    .winter_img img{
+        margin-left: 60px!important;
+    }
+    .img_dis{
+        left:70px;
+    }
+    
+    .counter_box_last{
+    margin-top: 10px;
+    }
+    .form_box input{
+        width: 48% !important;;
+    }
+}
